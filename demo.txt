@@ -1,0 +1,4 @@
+i am krishna 
+this is in vi editor
+file name is demo.txt
+
